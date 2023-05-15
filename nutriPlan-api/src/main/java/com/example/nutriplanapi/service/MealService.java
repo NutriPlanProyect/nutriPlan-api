@@ -1,4 +1,4 @@
 package com.example.nutriplanapi.service;
 
-public interface MealPlanService {
+public interface MealService {
 }

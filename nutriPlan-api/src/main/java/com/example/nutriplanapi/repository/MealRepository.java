@@ -1,4 +1,5 @@
 package com.example.nutriplanapi.repository;
 
-public class MealPlanRepository {
+
+public class MealRepository  {
 }
