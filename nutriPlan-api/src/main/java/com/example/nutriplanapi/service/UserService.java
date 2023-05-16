@@ -9,4 +9,5 @@ public interface UserService {
 
     void deleteUser(Long id);
 
+    User findByEmailAndPassword(String email, String password);
 }
