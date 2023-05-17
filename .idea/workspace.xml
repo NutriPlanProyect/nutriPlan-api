@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611b3389-86da-4a5b-a7ee-0140d39a5d46" name="Changes" comment="" />
+    <list default="true" id="611b3389-86da-4a5b-a7ee-0140d39a5d46" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nutriPlan-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +46,11 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Usuario/nutriPlan-api",
+    "last_opened_file_path": "C:/Users/LENOVO/Documents/nutriPlan-api",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -56,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684040924433</updated>
       <workItem from="1684040925428" duration="153000" />
+      <workItem from="1684292826008" duration="563000" />
     </task>
     <servers />
   </component>
