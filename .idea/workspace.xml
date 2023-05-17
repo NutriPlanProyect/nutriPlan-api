@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="611b3389-86da-4a5b-a7ee-0140d39a5d46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nutriPlan-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +42,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/LENOVO/Documents/nutriPlan-api",
+    "last_opened_file_path": "C:/Users/LENOVO/Documents/nutriPlan-api/nutriPlan-api",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,6 +64,9 @@
       <updated>1684040924433</updated>
       <workItem from="1684040925428" duration="153000" />
       <workItem from="1684292826008" duration="563000" />
+      <workItem from="1684310721750" duration="109000" />
+      <workItem from="1684310840297" duration="60000" />
+      <workItem from="1684310911729" duration="8000" />
     </task>
     <servers />
   </component>
