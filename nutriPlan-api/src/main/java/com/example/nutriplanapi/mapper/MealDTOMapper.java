@@ -1,5 +1,7 @@
 package com.example.nutriplanapi.mapper;
 import org.springframework.stereotype.Component;
+import com.example.nutriplanapi.dto.MealDTO;
+import com.example.nutriplanapi.model.Meal;
 public class MealDTOMapper {
     public MealDTO toDTO(Meal meal) {
         MealDTO mealDTO = new MealDTO();

@@ -11,6 +11,10 @@ public class UserServiceimpl implements UserService{
     @Autowired
     private UserRepository userRepository;
 
+    public UserServiceimpl(UserRepository userRepository) {
+        this.userRepository = userRepository;
+
+    }
     @Override
     public User createUser(User user) {
         return userRepository.save(user);
@@ -30,5 +34,6 @@ public class UserServiceimpl implements UserService{
     public void deleteUser(Long id) {
 
     }
+
 
 }

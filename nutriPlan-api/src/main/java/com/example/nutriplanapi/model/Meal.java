@@ -1,5 +1,10 @@
 package com.example.nutriplanapi.model;
-import javax.persistence.*;
+
+import jakarta.persistence.*;
+import lombok.Data;
+
+@Entity
+@Data
 public class Meal {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

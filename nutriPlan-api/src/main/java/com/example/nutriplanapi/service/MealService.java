@@ -1,6 +1,11 @@
 package com.example.nutriplanapi.service;
-import org.springframework.stereotype.Service;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.example.nutriplanapi.dto.MealDTO;
+import com.example.nutriplanapi.model.Meal;
+import com.example.nutriplanapi.exception.InvalidMealRequestException;
+import com.example.nutriplanapi.exception.MealNotFoundException;
+import com.example.nutriplanapi.model.Meal;
+
 public interface MealService {
-    MealDTO createMeal(MealDTO mealDTO);
+    Meal createMeal(Meal meal) throws InvalidMealRequestException;
+    Meal getMealById(String mealId) throws MealNotFoundException;
 }
